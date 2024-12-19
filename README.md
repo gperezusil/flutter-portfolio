@@ -12,10 +12,10 @@
    Al eliminar los costos de hospedaje, WanderWorld permite a los viajeros destinar su presupuesto a otras experiencias, haciendo que los viajes sean más accesibles y frecuentes. ￼
 
 
-2. **[Nombre del Proyecto 2](projects/refuerzApp)**  
+2. **[RefuerzApp](projects/refuerzApp)**  
    RefuerzApp es una aplicación móvil que utiliza inteligencia artificial para analizar fotos, planos u otra información estructural proporcionada por el usuario, ofreciendo soluciones precisas y asistencia personalizada a través de agentes especializados.
 
-3. **[Nombre del Proyecto 3](projects/mde)**  
+3. **[MDE Play](projects/mde)**  
    MDE Play es una comunidad digital dedicada a médicos especializados en medicina estética no invasiva. Accede a directorios de especialistas, eventos como congresos, contenido especializado, y conecta con otros profesionales del área.
 
 ## 📱 Tecnologías y Herramientas
